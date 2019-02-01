@@ -2,8 +2,9 @@
 
 [jquery.cookie](https://github.com/js-cookie/js-cookie) for Rails.
 
-`jquery.cookie.js` provided by this gem is too old (v1.3). 
-This gem is **NOT RECOMMENDED** to use proactively, and you should use [js_cookie_rails](https://github.com/freego/js_cookie_rails).
+The version of `jquery.cookie.js` provided by this gem is v1.3 and too old.
+
+This gem is **NOT RECOMMENDED** to use proactively, and you should use [js_cookie_rails](https://github.com/freego/js_cookie_rails) instead.
 We will not maintain this gem any more.
 
 ## Installation
