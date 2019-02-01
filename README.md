@@ -32,7 +32,7 @@ In your `application.js` you will need to add this line:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/jquery-cookie-legacy-rails.
+Bug reports and pull requests are welcome on GitHub at https://github.com/inventit/jquery-cookie-legacy-rails.
 
 ## License
 
